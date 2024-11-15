@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "title": "Get Flat 10% off",
+    "couponCode": "GET10",
+    "discountValue": "10",
+    "discountType": "percentage",
+    "description": "Use code GET10 & get flat 10% off on every 3rd order"
+  }
+]
