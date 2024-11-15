@@ -76,3 +76,6 @@ Coupon.jsx:Modal for selecting and applying coupons.
 Header.jsx: Navigation bar for accessing different pages.
 
 App.js: Handles route configuration using React Router.
+
+## Deployed Link
+https://test-task-tau-coral.vercel.app/
